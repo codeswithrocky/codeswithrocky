@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Rocky Sah 🧑‍💻, the founder of Codelivly 🚀, a platform for coding enthusiasts to learn and grow their skills. I have expertise in WordPress design 🌐, frontend web development 🖥️, ethical hacking 🔒, blogging ✍️, and Python programming 🐍. I'm also an author 📖 with a passion for writing about technology and cybersecurity. Follow me on my journey as I continue to explore and share my knowledge!<br><br><br><br><br>
+👋 Hi there! I'm Rocky  🧑‍💻, the founder of Codelivly 🚀, a platform for coding enthusiasts to learn and grow their skills. I have expertise in WordPress design 🌐, frontend web development 🖥️, ethical hacking 🔒, blogging ✍️, and Python programming 🐍. I'm also an author 📖 with a passion for writing about technology and cybersecurity. Follow me on my journey as I continue to explore and share my knowledge!<br><br><br><br><br>
 
 
 ## 🌐 Socials:
